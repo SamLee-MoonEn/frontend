@@ -29,8 +29,7 @@
 ### 🐱 Github (https://github.com/save-game/frontend)
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d06bb6c-85b3-4a0e-879e-c80448eab4b1/Untitled.png)
+![image](https://github.com/SamLee-MoonEn/frontend/assets/112921779/1531b771-b361-4053-826a-d6eee13a02ce)
 
 ### 🛠 기술 스택
 
