@@ -92,8 +92,23 @@
 ### 🔗 주요 기능
 
 ---
+# 카카오 소셜 로그인 OAuth2.0
 
-[제목 없는 데이터베이스](https://www.notion.so/132cb04ec26c47798b29802509e99ecf?pvs=21)
+[JWT를 이용한 사용자 인증](https://www.notion.so/JWT-ba57cf1a6dfe4dc2a3a4a92744b2957b?pvs=21)
+
+[검색 및 필터](https://www.notion.so/05084b06fe7f424eaaf1c58f9c67c7a4?pvs=21)
+
+[커뮤니티화면](https://www.notion.so/8f8bba578c3346a4a2d32e3c9815689b?pvs=21)
+
+[이미지 업로드](https://www.notion.so/89fe21a1f38c4964ae2813acfecd00df?pvs=21)
+
+[가계부 기능](https://www.notion.so/a79c952df71d4223a63c023b659d9e53?pvs=21)
+
+[분석](https://www.notion.so/0bbe5b386fce459ab04b0452c4ace7a9?pvs=21)
+
+[챌린지 기능](https://www.notion.so/51216abc0c7b4c369a05c9d8726888e2?pvs=21)
+
+[유저 정보 수정 기능](https://www.notion.so/19ed8653b4c649cc8a8223731812eeab?pvs=21)
 
 ### 🎯 트러블 슈팅
 
