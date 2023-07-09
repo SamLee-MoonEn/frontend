@@ -87,8 +87,7 @@
 ### 📋 ERD
 
 ---
-
-![savegame_erd.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b553e19-b1de-48a3-a386-3fb515107eac/savegame_erd.png)
+![image](https://github.com/SamLee-MoonEn/frontend/assets/112921779/1dcb6c4d-6b9b-47d8-b9ec-9aaa6db0916b)
 
 ### 🔗 주요 기능
 
